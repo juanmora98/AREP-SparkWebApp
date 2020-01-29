@@ -5,8 +5,16 @@ import static spark.Spark.*;
 public class SparkWebApp {
 
  public static void main(String[] args) {
+   staticFiles.location("/pages");
     port(getPort());
     get("/hello", (req, res) -> "Hello Heroku");
+    get("/calculator", (req, res) -> {
+       res.redirect("/calculator.html");
+       res.status(200);
+       return null;
+
+    });
+
  }
  
  static int getPort() {
