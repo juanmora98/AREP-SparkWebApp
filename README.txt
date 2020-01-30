@@ -1,5 +1,5 @@
 # AREP-Laboratorio2
-
+ 
 Laboratorio 02 de la materia Arquitecturas empresariales dictada en la Escuela Colombiana de Ingenieria Julio Garavito en el periodo 2020-1.
 
 # Descripción
