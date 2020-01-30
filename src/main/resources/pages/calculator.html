@@ -2,14 +2,15 @@
 <HTML>
    <HEAD>
       <TITLE>Calculator</TITLE>
+      <script src="/js/calculator.js"></script>
    </HEAD>
    <BODY>
       <center><h1> Calculadora de promedio y variacion estandar</h1></center>
-    <form action="results.html">
+    <form action="/results">
         Introducir los datos con los cuales desea calcular el promedio de esos datos y su variacion estandar<br>
         <input type="text" name="data" placeholder="Ejemplo: 1,2,3,4"><br>
         <br>
-        <input type="submit" value="Submit">
+        <input type="submit" value="submit" class="btn btn-primary" onclick="calculator.obtenerDatos()">
       </form>
    </BODY>
 </HTML>

@@ -20,10 +20,9 @@ public class SparkWebApp {
    
     });
     get("/results", (req, res) -> {
-      res.redirect("/calculator.html");
-      res.status(200);
+      ResultPage(req, res);
+      res.redirect("/results.html");
       return null;
-  
    });
 
  }
@@ -44,6 +43,7 @@ public static void ResultPage(Request req, Response res){
 
    double promedio = Operation.Promedio(linkedNum);
    double variacionEs = Operation.DesviacionEstandar(linkedNum);
+   
 }
  
 }
