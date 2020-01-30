@@ -3,6 +3,8 @@ package edu.escuelaing.arep.Operations;
 import edu.escuelaing.arep.models.LinkedList;
 //import edu.escuelaing.arep.ASE.models.Node;
 import java.lang.Math;
+import java.util.Arrays;
+import java.util.List;
 
 public class Operation {
 
@@ -62,5 +64,16 @@ public class Operation {
         return resultado;
     }
 
+	public static String CalcularPromedioDesviacion(String params) {
+		LinkedList<Double> lista = new LinkedList<Double>();
+		List<String> numberList = Arrays.asList(params.split(","));
+		for (int i = 0; i < numberList.size(); i++) {
+			lista.add(Double.parseDouble(numberList.get(i)));
+		}
+		Double promedio = Operation.Promedio(lista);
+		Double desviacion = Operation.DesviacionEstandar(lista);
+		String result ="{\"Promedio\":"+promedio+",\"Desviacion\":"+desviacion+"}";
+		return result;
+	}
 
 }

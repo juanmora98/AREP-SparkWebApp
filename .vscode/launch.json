@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SparkWebApp",
+            "request": "launch",
+            "mainClass": "edu.escuelaing.arep.designprimer.SparkWebApp",
+            "projectName": "SparkWebApp"
+        }
+    ]
+}
