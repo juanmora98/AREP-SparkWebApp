@@ -22,6 +22,7 @@ calculator = (function () {
             $("#Desviacion").empty();
             $("#Promedio").append("Promedio : " +datos.Promedio);
             $("#Desviacion").append("Desviacion : "+datos.Desviacion);  
+            
         }
     
     };  
