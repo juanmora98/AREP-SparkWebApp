@@ -29,17 +29,17 @@ Laboratorio realizado con la intención de que los estudiantes utilicen los los 
 
 A partir de estos datos se realizaron las siguientes pruebas.
 
- ![Tabla](AREP-SparkWebApp/images/tabla2.png)
+ ![Tabla](https://github.com/juanmora98/AREP-SparkWebApp/blob/master/images/tabla2.png)
 
-![Tabla](AREP-SparkWebApp/images/tabla3.png)
+![Tabla](https://github.com/juanmora98/AREP-SparkWebApp/blob/master/images/tabla3.png)
 
-![Tabla](AREP-SparkWebApp/images/tabla4.png)
+![Tabla](https://github.com/juanmora98/AREP-SparkWebApp/blob/master/images/tabla4.png)
 
-![Tabla](AREP-SparkWebApp/images/tabla5.png)
+![Tabla](https://github.com/juanmora98/AREP-SparkWebApp/blob/master/images/tabla5.png)
 
 Las cuales dan como resultado los siguientes valores.
 
-![Tabla](AREP-SparkWebApp/images/resultados.png)
+![Tabla](https://github.com/juanmora98/AREP-SparkWebApp/blob/master/images/resultados.png)
 
 Los cuales podemos observar a partir de la tabla dada que eran los valores esperados por estos procesos.
 
