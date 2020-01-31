@@ -20,11 +20,11 @@ Laboratorio realizado con la intención de que los estudiantes utilicen los los 
 # Pruebas
  Para la realización de las pruebas, se utilizaron los datos en el documento dado por el profesor:
  
- ![Tabla](AREP-SparkWebApp/images/tabla.png)
+ ![Tabla](https://github.com/juanmora98/AREP-SparkWebApp/blob/master/images/tabla.png)
  
- ![Tabla](AREP-SparkWebApp/images/promedio.png)
+ ![Tabla](https://github.com/juanmora98/AREP-SparkWebApp/blob/master/images/promedio.png)
 
-![Tabla](AREP-SparkWebApp/images/variacion.png)
+![Tabla](https://github.com/juanmora98/AREP-SparkWebApp/blob/master/images/variacion.png)
 
 
 A partir de estos datos se realizaron las siguientes pruebas.
