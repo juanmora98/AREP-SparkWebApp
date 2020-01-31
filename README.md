@@ -59,7 +59,7 @@ El pdf añadido de nombre [Laboratorio2](https://github.com/juanmora98/AREP-Spar
 
 ## Licencias
 
-Este archivo se cuenta con licencias del MIT,observar el [ARCHIVO](https://github.com/juanmora98/AREP-Laboratorio1/blob/master/LICENSE) para mas detalles.
+Este archivo se cuenta con licencias del MIT,observar el [ARCHIVO](https://github.com/juanmora98/AREP-SparkWebApp/blob/master/LICENSE) para mas detalles.
 
 
 
